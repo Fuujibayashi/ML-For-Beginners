@@ -3,7 +3,7 @@ CO_OP_TRANSLATOR_METADATA:
 {
   "original_hash": "c21bf667cfbd946f76fde049e31b07d0",
   "translation_date": "2025-12-24T22:35:36+00:00",
-  "source_file": "README.md",
+  "source_file": "README.md", 
   "language_code": "fr"
 }
 -->
